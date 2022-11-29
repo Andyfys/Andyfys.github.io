@@ -9,7 +9,7 @@
   <meta name="description" content="whatever you like">
 <meta property="og:type" content="article">
 <meta property="og:title" content="hello-world.txt">
-<meta property="og:url" content="http://myblog.andyfys.cn/2022/11/28/hello-world-txt/index.html">
+<meta property="og:url" content="http://myblog.andyfys.cn/uncategorized/hello-world-txt">
 <meta property="og:site_name" content="Andy的博客个人站">
 <meta property="og:description" content="whatever you like">
 <meta property="og:locale" content="zh_CN">
@@ -79,7 +79,7 @@
       <div class="outer">
         <section id="main"><article id="post-hello-world-txt" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2022/11/28/hello-world-txt/" class="article-date">
+    <a href="/uncategorized/hello-world-txt" class="article-date">
   <time class="dt-published" datetime="2022-11-28T08:27:07.000Z" itemprop="datePublished">2022-11-28</time>
 </a>
     
@@ -103,7 +103,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://myblog.andyfys.cn/2022/11/28/hello-world-txt/" data-id="clb1lo5qs0000jgv90gag2u0x" data-title="hello-world.txt" class="article-share-link">分享</a>
+      <a data-url="http://myblog.andyfys.cn/uncategorized/hello-world-txt" data-id="clb1lu3ct0000q0v97m7xdtuf" data-title="hello-world.txt" class="article-share-link">分享</a>
       
       
       
@@ -114,7 +114,7 @@
 <nav id="article-nav">
   
   
-    <a href="/2022/11/28/hello-world/" id="article-nav-older" class="article-nav-link-wrap">
+    <a href="/uncategorized/hello-world" id="article-nav-older" class="article-nav-link-wrap">
       <strong class="article-nav-caption">后一篇</strong>
       <div class="article-nav-title">Hello World</div>
     </a>
@@ -154,11 +154,11 @@
       <ul>
         
           <li>
-            <a href="/2022/11/28/hello-world-txt/">hello-world.txt</a>
+            <a href="/uncategorized/hello-world-txt">hello-world.txt</a>
           </li>
         
           <li>
-            <a href="/2022/11/28/hello-world/">Hello World</a>
+            <a href="/uncategorized/hello-world">Hello World</a>
           </li>
         
       </ul>
